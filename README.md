@@ -1,5 +1,5 @@
 # Purchase_Analytics
-Extensive Purchase Analytics project, including:
+Purchase Analytics project, including:
 - Customer segmentation model
 - Descriptive customer analysis:
 
